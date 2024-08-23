@@ -6,7 +6,7 @@ Hola mi nombre es Guillermo ![](https://user-images.githubusercontent.com/183505
 Desarrollador fullstack
 -----------------------
 
-Desarrollador de aplicaciones web con una sólida base en HTML, CSS y JavaScript, creó aplicaciones web con framework laravel, actualmente estoy explorando las tecnologías de React y Node.js.
+Desarrollador de aplicaciones web con una sólida base en HTML, CSS y JavaScript, creè aplicaciones web con framework laravel, actualmente estoy explorando las tecnologías de React y Node.js.
 
 * 🌍Estoy radicado en España
 * 🧠 Estoy aprendiendo React
