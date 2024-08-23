@@ -8,8 +8,8 @@ Desarrollador fullstack
 
 Desarrollador de aplicaciones web con una sólida base en HTML, CSS y JavaScript, creó aplicaciones web con framework laravel, actualmente estoy explorando las tecnologías de React y Node.js.
 
-* 🌍Estoy radicado en C
-* 🧠 Estoy aprendiendo R
+* 🌍Estoy radicado en España
+* 🧠 Estoy aprendiendo React
 * ⚡  Soy una persona apasionada por el aprendizaje continuo y la creación de nuevos proyectos. Disfruto explorar nuevas tecnologías y aplicar mis conocimientos para resolver problemas de manera innovadora. Mi hobby es la electrónica, un campo que me fascina por su combinación de teoría y práctica. Me encanta experimentar con circuitos y componentes, creando dispositivos que cobran vida gracias a la programación y al ingenio. Siempre estoy buscando nuevos retos que me permitan crecer tanto personal como profesionalmente.
 
 ### Skills
