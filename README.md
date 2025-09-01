@@ -1,71 +1,79 @@
- ![github-header-image](https://github.com/user-attachments/assets/dcdf55ee-f481-4e3d-ac89-f5fcfc19d19c)
-
-# 👋 Hola, soy Guillermo Muñoz
-
-### 🚀 Desarrollador Web Full Stack
-
-Apasionado por la **tecnología**, el **desarrollo de aplicaciones web** y la **electrónica**.  
-Cuento con experiencia en **backend con Laravel**, **frontend con Vue y React**, además de **Node.js** para servicios escalables.  
-Mi enfoque se centra en **crear soluciones innovadoras**, limpias y eficientes.  
-
-- 🌍 Residencia: España  
-- 💻 Stack principal: PHP (Laravel), JavaScript (React, Vue, Node.js), Java  
-- 🛠️ Experiencia con bases de datos: MySQL, Oracle  
-- ⚡ Hobby: electrónica y sistemas embebidos con Arduino y Raspberry Pi  
-
----
-
-## 🛠️ Skills
-
-<p align="left">
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="jQuery" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
+<!-- Banner futurista -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60" />
 </p>
 
+<h1 align="center">⚡ Hola, soy <span style="color:#00f0ff">Guillermo Muñoz</span> ⚡</h1>
+<h3 align="center">🚀 Full Stack Developer | Backend con Java y Laravel | Frontend con React & Vue</h3>
+
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 Sobre mí  
+ 
+💻 Experto en **Java, Laravel, React, Vue y Node.js**  
+🛠️ Experiencia en **bases de datos MySQL y Oracle**  
+⚡ Amante de la **electrónica, Arduino y Raspberry Pi**  
+🎯 Enfocado en **crear software innovador, escalable y limpio**  
+
+---
+
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guillermo-Munoz&show_icons=true&theme=radical" alt="GitHub stats" />
+<a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="45" /></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" width="45" /></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="45" /></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" width="45" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="45" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="45" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="45" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="45" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="45" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="45" /></a>
+<a href="https://www.oracle.com/" target="_blank"><img src="https://img.icons8.com/color/48/oracle-logo.png" width="45" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="45" /></a>
+<a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" width="45" /></a>
+<a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=jquery" width="45" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="45" /></a>
+<a href="https://arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" width="45" /></a>
+<a href="https://raspberrypi.org/" target="_blank"><img src="https://skillicons.dev/icons?i=raspberrypi" width="45" /></a>
 </p>
 
 ---
 
-## 🔥 Racha de Contribuciones
+## 📊 GitHub Stats  
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Guillermo-Munoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guillermo-Munoz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff)  
+
+</div>
+
+---
+
+## 🔥 Racha de Contribuciones  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Guillermo-Munoz&theme=radical" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Guillermo-Munoz&theme=tokyonight&hide_border=true&ring=00f0ff&fire=ff0080&currStreakLabel=00f0ff" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 💻 Lenguajes Más Usados
+## 🏆 Trofeos  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillermo-Munoz&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Guillermo-Munoz&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-## 🏆 Trofeos de GitHub
+## 🚀 Proyectos Destacados  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Guillermo-Munoz&theme=radical&margin-w=15&margin-h=15&column=7" alt="GitHub trophies" />
-</p>
+🔹 [TPV Free](https://github.com/Guillermo-Munoz/tpv-free) → Sistema de TPV open source con persistencia en base de datos  
+🔹 [Otro Proyecto Demo](https://github.com/Guillermo-Munoz/...) → *(añade otro repo importante)*  
 
+---
+
+✨ *"El futuro pertenece a quienes crean y nunca dejan de aprender."* 🚀
