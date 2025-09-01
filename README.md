@@ -8,7 +8,7 @@ Soy un desarrollador web con experiencia en el diseño y desarrollo de aplicacio
 Además, me apasiona la electrónica y la integración de software con hardware, creando proyectos que combinan programación con Arduino, Raspberry Pi y sistemas embebidos.
 
 
-💡 Me especializo en el desarrollo de aplicaciones web con Laravel, React y Node.js
+💡 Me especializo en el desarrollo de aplicaciones web con Laravel, React , Node.js y Java
 
 🛠️ Experiencia en bases de datos relacionales (MySQL, Oracle) y optimización de consultas
 
