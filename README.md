@@ -8,7 +8,7 @@ Soy desarrollador web con experiencia en backend y frontend, enfocado en diseño
 ---
 
 ##  Sobre mí  
--  **Vivo en:** España  
+
 -  **Stack principal:** Java, Laravel, React, Node.js  
 -  **Bases de datos:** MySQL y Oracle  
 -  **Pasión:** Crear soluciones innovadoras que integren software y hardware.
