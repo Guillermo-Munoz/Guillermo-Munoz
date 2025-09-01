@@ -72,7 +72,7 @@
 ## 🚀 Proyectos Destacados  
 
 🔹 [TPV Free](https://github.com/Guillermo-Munoz/tpv-free) → Sistema de TPV open source con persistencia en base de datos  
-🔹 [Otro Proyecto Demo](https://github.com/Guillermo-Munoz/...) → *(añade otro repo importante)*  
+🔹 [OCR Facturación AI](https://github.com/Guillermo-Munoz/facturacion-ia) → *(añade otro repo importante)*  
 
 ---
 
