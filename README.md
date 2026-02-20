@@ -46,9 +46,16 @@ con base sólida en PHP y desarrollo full stack.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guillermo-Munoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillermo-Munoz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guillermo-Munoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillermo-Munoz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&langs_count=8" height="170" />
 </div>
+
+---
+
+## 🔥 Racha de Contribuciones
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Guillermo-Munoz&theme=tokyonight&hide_border=true&ring=00f0ff&fire=ff0080&currStreakLabel=00f0ff" />
+</p>
 
 ---
 
