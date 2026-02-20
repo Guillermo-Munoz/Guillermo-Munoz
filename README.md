@@ -1,59 +1,46 @@
  <h1 align="center">Guillermo Muñoz</h1>
-<h4 align="center">Backend Developer · Java · Spring Boot · PHP</h4>
+<p align="center">
+  <strong>Backend Developer · Java & Spring Boot · PHP</strong><br>
+  Desarrollador enfocado en arquitecturas limpias, escalabilidad y código mantenible.
+</p>
 
 ---
 
-## About
+### 🛠️ Tech Stack
 
-Backend developer with hands-on experience building production systems.
-Currently focused on **Java · Spring Boot · Hibernate** ecosystem.
-Comfortable working across the full stack when needed.
+#### **Enfoque Actual**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,docker" />
+</p>
 
----
+> Actualmente profundizando en el ecosistema **Java Enterprise** y microservicios, aplicando patrones de diseño para soluciones robustas.
 
-## Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Backend**
-- Java · Spring Boot · Hibernate
-- PHP · Laravel
-- REST API design
-- MySQL · Oracle
-
-</td>
-<td valign="top" width="50%">
-
-**Tools & Other**
-- Git · GitHub
-- JavaScript · React · Vue
-- HTML · CSS
-- Arduino · Raspberry Pi
-
-</td>
-</tr>
-</table>
+#### **Experiencia Consolidada**
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,python,flask,git,github" />
+</p>
 
 ---
 
-## Projects
+### 🚀 Proyectos Destacados
 
-**[Intranet Gestoría](https://github.com/Guillermo-Munoz/intranet-wp)**
-Document management system with role-based access control, audit trail and email notifications. Built as a modular plugin with clean architecture separating UI, actions and business logic.
-`PHP` `MySQL` `JavaScript` `OOP`
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| 📂 **[Intranet Gestoría](https://github.com/Guillermo-Munoz/intranet-wp)** | Sistema de gestión documental con roles complejos y notificaciones. | `PHP` `MySQL` `JS` |
+| 📂 **[TPV Free](https://github.com/Guillermo-Munoz/tpv-free)** | Terminal Punto de Venta diseñado bajo principios de POO y mantenibilidad. | `Java` `MySQL` |
+| 📂 **[OCR Facturación AI](https://github.com/Guillermo-Munoz/facturacion-ia)** | Automatización de procesos contables mediante extracción de datos con IA. | `Python` `Flask` `AI` |
 
-**[TPV Free](https://github.com/Guillermo-Munoz/tpv-free)**
-Open source point-of-sale system with database persistence.
-`Java` `MySQL`
+---
 
-**[OCR Facturación AI](https://github.com/Guillermo-Munoz/facturacion-ia)**
-Invoice automation using optical character recognition and AI.
-`Python` `Flask`
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guillermo-Munoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillermo-Munoz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff" height="150" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guillermo-Munoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&count_private=true" height="140" />
+  <i>"Transformando lógica compleja en soluciones eficientes."</i>
 </p>
