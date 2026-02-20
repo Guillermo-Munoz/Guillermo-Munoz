@@ -1,70 +1,46 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60" />
-</p>
-
-<h1 align="center">Guillermo Muñoz</h1>
+ <h1 align="center">Guillermo Muñoz</h1>
 <h3 align="center">Backend Developer · Java & Spring Boot · PHP</h3>
 
----
-
-## Sobre mí
-
-Desarrollador backend con experiencia en proyectos reales en producción.
-Actualmente profundizando en el ecosistema **Java · Spring Boot · Hibernate**,
-con base sólida en PHP y desarrollo full stack.
-
-- 🎯 Enfocado en **Java · Spring Boot · Hibernate · REST APIs**
-- 🛠️ Experiencia real en **PHP · Laravel · desarrollo de plugins a medida**
-- 🗄️ Bases de datos **MySQL · Oracle**
-- ⚡ Aficionado a **Arduino y Raspberry Pi**
+<p align="center">
+  Desarrollador backend enfocado en arquitecturas limpias y código mantenible.
+  Actualmente profundizando en el ecosistema Java · Spring Boot · Hibernate.
+</p>
 
 ---
 
 ## Tech Stack
 
-### 🔵 Principal (activo)
+### Activo
 <p>
-<img src="https://skillicons.dev/icons?i=java" width="45" />
-<img src="https://skillicons.dev/icons?i=spring" width="45" />
-<img src="https://skillicons.dev/icons?i=mysql" width="45" />
-<img src="https://skillicons.dev/icons?i=git" width="45" />
+<img src="https://skillicons.dev/icons?i=java" width="40" />
+<img src="https://skillicons.dev/icons?i=spring" width="40" />
+<img src="https://skillicons.dev/icons?i=mysql" width="40" />
+<img src="https://skillicons.dev/icons?i=git" width="40" />
 </p>
 
-### ⚪ Experiencia previa
+### Experiencia previa
 <p>
-<img src="https://skillicons.dev/icons?i=php" width="45" />
-<img src="https://skillicons.dev/icons?i=laravel" width="45" />
-<img src="https://skillicons.dev/icons?i=js" width="45" />
-<img src="https://skillicons.dev/icons?i=react" width="45" />
-<img src="https://skillicons.dev/icons?i=vue" width="45" />
-<img src="https://skillicons.dev/icons?i=html" width="45" />
-<img src="https://skillicons.dev/icons?i=css" width="45" />
+<img src="https://skillicons.dev/icons?i=php" width="40" />
+<img src="https://skillicons.dev/icons?i=laravel" width="40" />
+<img src="https://skillicons.dev/icons?i=js" width="40" />
+<img src="https://skillicons.dev/icons?i=react" width="40" />
+<img src="https://skillicons.dev/icons?i=mysql" width="40" />
+<img src="https://skillicons.dev/icons?i=html" width="40" />
+<img src="https://skillicons.dev/icons?i=css" width="40" />
 </p>
 
 ---
 
-## GitHub Stats
+## Proyectos
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guillermo-Munoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillermo-Munoz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&langs_count=8" height="170" />
-</div>
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [Intranet Gestoría](https://github.com/Guillermo-Munoz/intranet-wp) | Sistema de gestión documental con roles, permisos y notificaciones | PHP · MySQL · JS |
+| [TPV Free](https://github.com/Guillermo-Munoz/tpv-free) | Sistema TPV open source | Java · MySQL |
+| [OCR Facturación AI](https://github.com/Guillermo-Munoz/facturacion-ia) | Automatización de facturación con IA | Python · Flask |
 
 ---
 
-## 🔥 Racha de Contribuciones
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Guillermo-Munoz&theme=tokyonight&hide_border=true&ring=00f0ff&fire=ff0080&currStreakLabel=00f0ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guillermo-Munoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&count_private=true" height="150" />
 </p>
-
----
-
-## Proyectos Destacados
-
-🔹 [Intranet Gestoría](https://github.com/Guillermo-Munoz/intranet-wp) → Sistema de gestión documental con roles, permisos, auditoría y notificaciones  
-🔹 [TPV Free](https://github.com/Guillermo-Munoz/tpv-free) → Sistema TPV open source con persistencia en base de datos  
-🔹 [OCR Facturación AI](https://github.com/Guillermo-Munoz/facturacion-ia) → Automatización de facturación con inteligencia artificial  
-
----
-
-*"Primero hazlo funcionar, luego hazlo bien."* 🚀
