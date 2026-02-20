@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Guillermo Muñoz</h1>
-<h3 align="center">Backend Developer · Java & Spring Boot · PHP & WordPress</h3>
+<h3 align="center">Backend Developer · Java & Spring Boot · PHP</h3>
 
 ---
 
@@ -11,10 +11,10 @@
 
 Desarrollador backend con experiencia en proyectos reales en producción.
 Actualmente profundizando en el ecosistema **Java · Spring Boot · Hibernate**,
-con base sólida en PHP, WordPress y desarrollo full stack.
+con base sólida en PHP y desarrollo full stack.
 
 - 🎯 Enfocado en **Java · Spring Boot · Hibernate · REST APIs**
-- 🛠️ Experiencia real en **PHP · Laravel · WordPress (plugins a medida)**
+- 🛠️ Experiencia real en **PHP · Laravel · desarrollo de plugins a medida**
 - 🗄️ Bases de datos **MySQL · Oracle**
 - ⚡ Aficionado a **Arduino y Raspberry Pi**
 
@@ -54,7 +54,7 @@ con base sólida en PHP, WordPress y desarrollo full stack.
 
 ## Proyectos Destacados
 
-🔹 [Intranet Gestoría](https://github.com/Guillermo-Munoz/intranet-wp) → Plugin WordPress a medida para gestión documental con roles, permisos y notificaciones  
+🔹 [Intranet Gestoría](https://github.com/Guillermo-Munoz/intranet-wp) → Sistema de gestión documental con roles, permisos, auditoría y notificaciones  
 🔹 [TPV Free](https://github.com/Guillermo-Munoz/tpv-free) → Sistema TPV open source con persistencia en base de datos  
 🔹 [OCR Facturación AI](https://github.com/Guillermo-Munoz/facturacion-ia) → Automatización de facturación con inteligencia artificial  
 
