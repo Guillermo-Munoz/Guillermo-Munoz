@@ -34,7 +34,6 @@
 
 ### 📊 Metrics
 
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guillermo-Munoz&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
