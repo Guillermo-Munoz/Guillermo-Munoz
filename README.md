@@ -3,7 +3,6 @@
   <strong>Backend Developer · Java & Spring Boot · PHP</strong><br>
   Desarrollador enfocado en arquitecturas limpias, escalabilidad y código mantenible.
 </p>
-
 ---
 
 ### 🛠️ Tech Stack
