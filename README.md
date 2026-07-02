@@ -45,7 +45,6 @@ He desarrollado soluciones funcionales aplicando buenas prácticas de backend en
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guillermo-Munoz&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
-
 ---
 <p align="center">
   <i>"Transformando lógica compleja en soluciones eficientes."</i>
