@@ -28,6 +28,7 @@ He desarrollado soluciones funcionales aplicando buenas prácticas de backend en
 - Implementación de lógica de negocio estructurada y mantenible.
 - Automatización de procesos mediante integración con herramientas de IA.
 - Diseño de bases de datos relacionales optimizadas
+- 
 ---
 
 ### 🚀 Proyectos Destacados
