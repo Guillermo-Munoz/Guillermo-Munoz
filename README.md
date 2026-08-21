@@ -13,7 +13,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,docker" />
 </p>
-
 > Actualmente profundizando en el ecosistema **Java Enterprise** y microservicios, aplicando patrones de diseño para soluciones robustas.
 
 ### 💻 Experiencia práctica en proyectos reales
